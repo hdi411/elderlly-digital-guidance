@@ -1,6 +1,7 @@
 # elderly-guidance
 
 An Electron application with React and TypeScript
+Embadded AI API to help elderly access electronic device in a more direct way
 
 ## Recommended IDE Setup
 
