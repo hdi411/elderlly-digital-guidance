@@ -1,0 +1,4 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, system-ui, sans-serif; background: #F2EDE6; overflow: hidden; }
+input, button { font-family: inherit; }
+button:hover { opacity: 0.88; }
